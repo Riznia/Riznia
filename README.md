@@ -1,4 +1,4 @@
-## Riznia : ?
+## Riznia : Student
  - 뭐적지..
 
 ## Main Skills
