@@ -1,13 +1,13 @@
 ## Riznia : ?
  - 뭐적지..
 
-##Main Skills
+## Main Skills
 
 - Python
 - C
 - JavaScript
 
-##Sub Skills
+## Sub Skills
 
 - Game System Design
 - Game Design(Plan)
