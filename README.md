@@ -4,7 +4,7 @@
 
 ## Main Skills
 - Python
-- C
+- C# | C | C++
 - JavaScript
 
 ## Sub Skills
